@@ -1,0 +1,104 @@
+﻿body {
+    
+    background-image: url('bg.gif');
+    background-size: cover;
+    overflow:hidden;
+    
+}
+
+
+
+
+.dog {
+    
+    position: absolute;
+    padding-top: 43%;
+    
+    
+    
+}
+
+.dog2 {
+    position:absolute;
+    padding-left: 40%;
+}
+
+.me1 {
+    font-family: 'Prestige Elite Std', sans-serif;
+    position: absolute;
+    font-size: 25px;
+    margin-top:20px;
+    margin-left: 250px;
+    text-align:center;
+}
+
+.me2 {
+    font-family: 'Prestige Elite Std', sans-serif;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 20%;
+    margin-left: 350px;
+    text-align: center;
+}
+
+.me3 {
+    font-family: 'Prestige Elite Std', sans-serif;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 62%;
+    text-align: right;
+}
+.me4 {
+    font-family: 'Prestige Elite Std', sans-serif;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 35%;
+    margin-left: 10px;
+    text-align: left;
+}
+.me5 {
+    font-family: 'Prestige Elite Std', sans-serif;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 40%;
+    margin-left: 45%;
+    text-align: center;
+}
+
+#Video_bubble:hover {
+
+    transition: 0.5s ease-in-out;
+    transform: scale(1.04);
+}
+
+
+#Sound_bubble:hover {
+    transition: 0.5s ease-in-out;
+    transform: scale(1.04);
+}
+
+
+
+#Comic_bubble:hover {
+    transition: 0.5s ease-in-out;
+    transform: scale(1.03);
+}
+
+#Me_bubble:hover {
+    transition: 0.5s ease-in-out;
+    transform: scale(1.04);
+}
+
+#_30mff_bubble:hover {
+    transition: 0.5s ease-in-out;
+    transform: scale(1.04);
+}
+
+#Isha:hover {
+    
+    transition: 0.5s ease-in-out;
+    transform: scale(1.03);
+}
+
+
