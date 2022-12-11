@@ -1,4 +1,4 @@
-﻿body {
+body {
     
     background-image: url('bg.gif');
     background-size: cover;
@@ -30,6 +30,7 @@
     margin-top:20px;
     margin-left: 250px;
     text-align:center;
+    background-color: #d7d5d5;
 }
 
 .me2 {
@@ -39,6 +40,7 @@
     margin-top: 20%;
     margin-left: 350px;
     text-align: center;
+    background-color: #d7d5d5;
 }
 
 .me3 {
@@ -48,6 +50,7 @@
     margin-top: 10px;
     margin-left: 62%;
     text-align: right;
+    background-color: #d7d5d5;
 }
 .me4 {
     font-family: 'Prestige Elite Std', sans-serif;
@@ -56,6 +59,7 @@
     margin-top: 35%;
     margin-left: 10px;
     text-align: left;
+    background-color: #d7d5d5;
 }
 .me5 {
     font-family: 'Prestige Elite Std', sans-serif;
@@ -64,6 +68,7 @@
     margin-top: 40%;
     margin-left: 45%;
     text-align: center;
+    background-color: #d7d5d5;
 }
 
 #Video_bubble:hover {
